@@ -1,0 +1,84 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-size: 200%;
+}
+
+h1 {
+
+  font-size: 5.66rem;
+  font-family: 'Pacifico', cursive;
+  margin: 40px auto 0 auto;
+  color: red;
+
+}
+h2{
+  font-family: sans-serif;
+  color:		#483d8b;
+}
+h3{
+  font-family: sans-serif;
+  color:#483d8b;
+}
+
+.subhead {
+  position: relative;
+  font-family: 'Merriweather', serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+.top-container {
+  background-color: #00bfff;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.middle-container {
+
+
+}
+
+.bottom-container {
+background-color:	#696969;
+}
+
+.dev {
+  text-decoration: underline;
+}
+
+.c1 {
+  position: relative;
+  left: 400px;
+  top: 40px;
+}
+
+.c2 {
+  position: relative;
+  left: 1000px;
+  bottom: 80px;
+}
+
+.c3 {
+  position: relative;
+  bottom: 300px;
+  right: 200px;
+}
+.skill-row{
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  width: 50%;
+}
+
+.code-l{
+
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+.gamerg{
+  width: 25%;
+  float: left;
+  margin-right: 20px;
+}
